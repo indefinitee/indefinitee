@@ -1,6 +1,7 @@
-<h3 align="center">Hey 👋 I am a software engineer also known as @indefinit3</h3>
-
-<img align="center" alt="Coding" width="400" src="https://favim.com/pd/p/orig/2019/03/07/cartoon-keyboard-coding-Favim.com-6986638.gif" >
+<h3 align="center">
+  <img src="https://i.pinimg.com/originals/0d/10/d2/0d10d2fe48a7956a4fdc9f7251132236.gif" />
+</h3>
+<h4 align="center">Hey 👋 I am a software engineer also known as @indefinit3</h4>
 
 <h3 align="center">Languages and Tools:</h3>
 
