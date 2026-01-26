@@ -7,7 +7,7 @@
   <a href="mailto:danny.galaev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/indefinit3">
+  <a href="https://linkedin.com/in/deni-galaev-3b8372380">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
